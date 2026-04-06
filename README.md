@@ -36,7 +36,3 @@ c.	Fitur untuk Penjual (Seller):
     •	Upload produk (foto, deskripsi, harga, kategori) 
     •	Edit dan hapus produk 
     •	Kelola daftar produk yang diunggah
-
-
-# Kelebihan dan Kekurangan dari Aplikasi
-
